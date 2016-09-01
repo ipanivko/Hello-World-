@@ -1,2 +1,3 @@
-# Hello-World-
-testing project creation
+# Kaggle competition "Voting Outcomes"
+Python codes
+
